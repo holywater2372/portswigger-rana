@@ -1,3 +1,3 @@
-# Web-Security-Academy-Series
+# BSCP practice
 
-TBA
+Forked repo from Rana Khalil.
